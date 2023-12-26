@@ -10,4 +10,6 @@
 
 规则地址：<https://raw.githubusercontent.com/cuideyu/Shadowrocket-Rules/main/my_lazy_ad.conf>
 
+![二维码](https://github.com/cuideyu/Shadowrocket-Rules/blob/main/my_lazy_ad.png?raw=true)
+
 3、使用my_lazy_ad.conf
