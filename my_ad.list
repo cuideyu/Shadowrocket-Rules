@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,pgdt.ugdtimg.com
 DOMAIN-SUFFIX,errnewlog.umeng.com
 DOMAIN-SUFFIX,api.bjzghd.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
 
 DOMAIN-KEYWORD,pglstatp-toutiao.com
 DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com
@@ -25,5 +27,11 @@ DOMAIN-KEYWORD,volces.com
 DOMAIN-KEYWORD,gdt.qq.com
 DOMAIN-KEYWORD,uyunad.com
 DOMAIN-KEYWORD,volceapplog.com
+DOMAIN-KEYWORD,ctobsnssdk.com
 
 IP-CIDR,103.41.167.0/12,REJECT,no-resolve
+IP-CIDR,47.97.179.0/12,REJECT,no-resolve
+
+URL-REGEX,api/ad,REJECT
+URL-REGEX,static/ad,REJECT
+URL-REGEX,obj/ad,REJECT
