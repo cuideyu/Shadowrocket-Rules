@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,tangram.e.qq.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,sginput.qq.com
 DOMAIN-SUFFIX,rmonitor.qq.com
+DOMAIN-SUFFIX,adservice.sigmob.com
 
 DOMAIN-KEYWORD,pglstatp-toutiao.com
 DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com
@@ -36,8 +37,8 @@ DOMAIN-KEYWORD,volceapplog.com
 DOMAIN-KEYWORD,ctobsnssdk.com
 
 IP-CIDR,103.41.167.0/12
-IP-CIDR,47.97.179.127
+IP-CIDR,47.97.179.1/12
 
-URL-REGEX,api/ad
+#URL-REGEX,api/ad
 URL-REGEX,static/ad
-URL-REGEX,obj/ad
+#URL-REGEX,obj/ad
