@@ -36,7 +36,7 @@ DOMAIN-KEYWORD,volceapplog.com
 DOMAIN-KEYWORD,ctobsnssdk.com
 
 IP-CIDR,103.41.167.0/12
-IP-CIDR,47.97.179.0/12
+IP-CIDR,47.97.179.127
 
 URL-REGEX,api/ad
 URL-REGEX,static/ad
