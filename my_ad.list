@@ -11,6 +11,12 @@ DOMAIN-SUFFIX,errnewlog.umeng.com
 DOMAIN-SUFFIX,api.bjzghd.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,adsmind.gdtimg.com
+DOMAIN-SUFFIX,sdkreport.e.qq.com
+DOMAIN-SUFFIX,tangram.e.qq.com
+DOMAIN-SUFFIX,trace.qq.com
+DOMAIN-SUFFIX,sginput.qq.com
+DOMAIN-SUFFIX,rmonitor.qq.com
 
 DOMAIN-KEYWORD,pglstatp-toutiao.com
 DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com
@@ -29,9 +35,9 @@ DOMAIN-KEYWORD,uyunad.com
 DOMAIN-KEYWORD,volceapplog.com
 DOMAIN-KEYWORD,ctobsnssdk.com
 
-IP-CIDR,103.41.167.0/12,REJECT,no-resolve
-IP-CIDR,47.97.179.0/12,REJECT,no-resolve
+IP-CIDR,103.41.167.0/12
+IP-CIDR,47.97.179.0/12
 
-URL-REGEX,api/ad,REJECT
-URL-REGEX,static/ad,REJECT
-URL-REGEX,obj/ad,REJECT
+URL-REGEX,api/ad
+URL-REGEX,static/ad
+URL-REGEX,obj/ad
