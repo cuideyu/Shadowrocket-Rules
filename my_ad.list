@@ -42,3 +42,5 @@ IP-CIDR,47.97.179.1/12
 #URL-REGEX,api/ad
 URL-REGEX,static/ad
 #URL-REGEX,obj/ad
+
+DOMAIN-SUFFIX,slapi.oray.net,PROXY
